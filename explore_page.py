@@ -93,3 +93,6 @@ def show_explore_page():
     data = df.groupby(["YearsCodePro"])["Salary"].mean().sort_values(ascending=True)
     st.line_chart(data)
 
+    
+def train_model():
+    print('train model in progress')
