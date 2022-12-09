@@ -4,6 +4,6 @@ In this repo, I will be exploring various methods to put an ML model into produc
 
 
 
-I want to explain the training process of my project.
+I want to explain how the training process of my project works.
 
-### MY first ML project
+### This is my first ML project
